@@ -155,7 +155,6 @@ main {
     border-radius: 30px;
     width: 70%;
     max-width: 100%;
-    white-space: nowrap;
     margin: 0 auto 15px auto;
     box-sizing: border-box;
 }

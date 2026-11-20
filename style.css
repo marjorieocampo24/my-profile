@@ -63,7 +63,7 @@ main {
     padding: 25px;
 }
 
-.about-me h2 {
+.about-me h1 {
     font-family: Merriweather Sans, Poppins, Arial, sans-serif;
     color: #FFFFFF;
     font-size: 32px;
@@ -105,7 +105,7 @@ main {
     margin-bottom: 10px;
 }
 
-.things-i-love h2 {
+.things-i-love h1 {
 	font-family: Merriweather Sans, Poppins, Arial, sans-serif;
 	text-align: center;
 	background-color:#000000;
@@ -145,7 +145,7 @@ main {
 }
 
 
-.passion-projects h2{
+.passion-projects h1 {
 	font-family: Merriweather Sans, Poppins, Arial, sans-serif;
     color: #FFFFFF;
     font-size: 32px;
@@ -223,7 +223,7 @@ main {
 	padding-bottom: 25px;
 }
 
-.contact-me h2 {
+.contact-me h1 {
     font-family: Merriweather Sans, Poppins, Arial, sans-serif;
     font-size: 22px;
     letter-spacing: 2px;

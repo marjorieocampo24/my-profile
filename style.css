@@ -102,7 +102,7 @@ main {
     background-color: #000000;
     color: #FFFFFF;
     padding: 5px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .things-i-love h1 {
@@ -120,6 +120,7 @@ main {
     flex-wrap: wrap;
     gap: 12px;
 	padding:5px;
+	margin-bottom: 20px;
 }
 
 .love-item {
@@ -227,7 +228,7 @@ main {
     font-family: Merriweather Sans, Poppins, Arial, sans-serif;
     font-size: 22px;
     letter-spacing: 2px;
-    margin-top: 0;
+    margin-top: 0;-
     margin-bottom: 5px;
     text-align: center;
     color: #FF66B7;
@@ -248,4 +249,3 @@ footer {
 	background-color: #FF66B7;
     padding: 1px;
 }
-
